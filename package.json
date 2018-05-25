@@ -1,0 +1,11 @@
+{
+    "name": "clean-node-console",
+    "version": "0.0.1",
+    "description": "a simple tool for cleaning your console",
+    "main": "index.js",
+    "repository": "https://github.com/Voyager-One/clean-node-console",
+    "author": "Eric Choo",
+    "license": "MIT",
+    "private": false,
+    "keywords": ["tool", "console-tool", "cleaner"]
+}
