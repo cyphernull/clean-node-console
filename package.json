@@ -1,6 +1,6 @@
 {
     "name": "clean-node-console",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "a simple tool for cleaning your console",
     "main": "index.js",
     "repository": "https://github.com/Voyager-One/clean-node-console",
