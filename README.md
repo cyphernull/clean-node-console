@@ -33,3 +33,5 @@ router.get('/test', (req, res) => {
     })
 })
 ```
+#### preview
+![image text](https://github.com/Voyager-One/clean-node-console/blob/master/preview/2018-05-25%2014_57_50.gif)
